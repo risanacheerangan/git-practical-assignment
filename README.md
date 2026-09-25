@@ -17,3 +17,12 @@ This repository demonstrates practical Git and GitHub workflows.
 - Tags and releases
 - Git bisect
 - GitHub Issues
+## Payment Module
+
+The payment module stores payment information including:
+
+- Payment ID
+- User ID
+- Amount
+- Currency
+- Status
