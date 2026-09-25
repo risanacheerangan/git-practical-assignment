@@ -2,3 +2,5 @@ Git Practical Assignment Application
 This project demonstrates Git and GitHub workflows.
 New feature is under development.
 Rebase demonstration feature.Rebase feature implementation.
+Interactive rebase demonstration.
+Commits can be combined using interactive rebase.
