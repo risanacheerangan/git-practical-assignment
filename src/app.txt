@@ -9,3 +9,4 @@ Interactive rebase demonstration.
 Commits can be combined using interactive rebase.
 Cherry-pick demonstration.
 >>>>>>> 3d63fb4 (feat: add cherry-pick demonstration)
+Temporary change for reset.
