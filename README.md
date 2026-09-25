@@ -35,3 +35,6 @@ The payment module stores payment information including:
 - Amount
 - Currency
 - Status
+## Rebase Demonstration
+
+This section demonstrates Git rebase workflow.
