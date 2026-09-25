@@ -3,3 +3,4 @@ USR002,Rahul,rahul@example.com
 USR003,Meera,meera@example.com
 USR004,Arjun,arjun@example.com
 USR005,Sneha,sneha@example.com
+USR006,Fathima,fathima@example.com
