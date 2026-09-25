@@ -17,3 +17,12 @@ This repository demonstrates practical Git and GitHub workflows.
 - Tags and releases
 - Git bisect
 - GitHub Issues
+## User Management
+
+The user management module stores basic user information including:
+
+- User ID
+- Name
+- Email
+
+The initial user records are stored in `src/users.txt`.
