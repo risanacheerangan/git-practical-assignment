@@ -38,3 +38,5 @@ The payment module stores payment information including:
 ## Rebase Demonstration
 
 This section demonstrates Git rebase workflow.
+## Main Update
+This change was added to main before rebasing.
