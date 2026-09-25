@@ -26,3 +26,12 @@ The user management module stores basic user information including:
 - Email
 
 The initial user records are stored in `src/users.txt`.
+## Payment Module
+
+The payment module stores payment information including:
+
+- Payment ID
+- User ID
+- Amount
+- Currency
+- Status
