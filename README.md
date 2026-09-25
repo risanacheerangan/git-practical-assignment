@@ -40,3 +40,7 @@ The payment module stores payment information including:
 This section demonstrates Git rebase workflow.
 ## Main Update
 This change was added to main before rebasing.
+
+## Git Workflow Demonstrations
+
+This repository demonstrates branching, pull requests, conflicts, stash, rebase, interactive rebase, cherry-pick, reset, revert, reflog, tags, releases, team workflow, issues, conventional commits, bisect, and hotfix workflows.
