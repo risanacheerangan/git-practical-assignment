@@ -1,0 +1,8 @@
+# Git Configuration
+
+## Git User Name
+
+The Git username was configured using:
+
+```bash
+git config --global user.name

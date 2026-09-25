@@ -1,0 +1,2 @@
+Git Practical Assignment Application
+This project demonstrates Git and GitHub workflows.
