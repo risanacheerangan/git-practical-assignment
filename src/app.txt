@@ -12,4 +12,3 @@ Cherry-pick demonstration.
 Temporary change for reset.
 Bisect test 1.
 Bisect test 2.
-Revert demonstration.
